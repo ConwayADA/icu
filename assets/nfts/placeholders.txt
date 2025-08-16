@@ -1,0 +1,9 @@
+Drop your NFT preview images here named:
+1.png
+2.png
+3.png
+4.png
+5.png
+6.png
+
+Any dimensions are fine (square recommended). The gallery will use these paths.
